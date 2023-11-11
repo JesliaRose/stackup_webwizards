@@ -6,7 +6,7 @@ import "swiper/css/navigation";
 
 const Carousel = () => {
   return (
-    <div className="h-[700px] bg-white">
+    <div className="h-[680px] bg-white">
       <Swiper loop={true} spaceBetween={0} navigation={true} modules={[Navigation, Autoplay]}
       autoplay={{
         delay:4000,
@@ -35,7 +35,7 @@ const Carousel = () => {
         </SwiperSlide>
       </Swiper>
 
-      <div className="h-[280%] bg-gradient-to-b from-wishquire-lightblue to-wishquire-blue" />
+      <div className="-mt-14 h-[280%] bg-gradient-to-b from-wishquire-lightblue to-wishquire-blue" />
     </div>
   );
 };
