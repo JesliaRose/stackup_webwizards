@@ -194,6 +194,65 @@
             "price": 128700.00,
             "oldPrice": 129900.00,
             "badge": "seller"
+        },
+
+        {
+            "id" : 15,
+            "title": "SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)  (12 GB RAM)",
+            "image": "../images/product_15.jpg",
+            "image_small": "../images/product_15.jpg",
+            "attribute": "Mobile", 
+            "description" : "Get a smartphone for yourself that can detect your moods and react appropriately. The Samsung Galaxy Ultra's potent processor and advanced camera sensor can handle low light and noise reduction. The phone's Snapdragon 8 Gen 2 processor, which also provides a long battery life to carry you through even the busiest days, also enables quick gaming and video streaming. You can also launch Expert RAW to take high-resolution RAW photos that are vivid and packed with information. Moreover, Dynamic AMOLED 2X offers clear, brilliant details in both bright and low-light conditions. Additionally, to smooth up gaming and save power, the refresh rate is automatically optimised with 120 Hz technology.",
+            "brand": "Samsung", 
+            "avgRating": 5,
+            "ratings": 1856,
+            "price": 124999.00,
+            "oldPrice": 149999.00,
+            "badge": "seller"
+        },
+
+        {
+            "id" : 14,
+            "title": "Women's Fullsleeve Sweatshirt",
+            "image": "../images/product_14.jpg",
+            "image_small": "../images/product_14.jpg",
+            "attribute": "Minnus", 
+            "description" : "Women's trendy fullsleeve sweatshirt lavender colour",
+            "brand": "Minnus", 
+            "avgRating": 5,
+            "ratings": 102,
+            "price": 799,
+            "oldPrice": 1429,
+            "badge": "choice"
+        },
+
+        {
+            "id" : 16,
+            "title": "PHILIPS HL7576/00 Daily Collection 600 W Juicer Mixer Grinder",
+            "image": "../images/product_16.jpg",
+            "image_small": "../images/product_16.jpg",
+            "attribute": "Mixer Grinder", 
+            "description" : "With the Philips Daily Collection HL7576/00 600 W Juicer Mixer Grinder in your kitchen, you can make juices, and grind and mix food ingredients with ease. So, you can make coconut chutney, creamy gravy ingredients, fresh juices, and even milkshakes using this kitchen appliance",
+            "brand": "Philips", 
+            "avgRating": 4,
+            "ratings": 4066,
+            "price": 2929,
+            "oldPrice": 4795,
+            "badge": "seller"
+        },
+
+        {
+            "id" : 17,
+            "title": "ASUS ROG Strix G16 (2023)",
+            "image": "../images/product_17.jpg",
+            "image_small": "../images/product_17.jpg",
+            "attribute": "Laptop", 
+            "description" : "ASUS ROG Strix G16 (2023) with 90WHr Battery Intel HX-Series Core i9 13th Gen 13980HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4070/240 HZ/140 W) G614JI-N4151WS Gaming Laptop  (16 Inch, Volt Green, 2.50 Kg, With MS Office)",
+            "brand": "Asus", 
+            "avgRating": 4,
+            "ratings": 52,
+            "price": 209990,
+            "oldPrice": 251990
         }
     ], 
     "Computers" : [
@@ -210,6 +269,20 @@
             "price": 55900,
             "oldPrice": 59900,
             "badge": "choice"
+        },
+
+        {
+            "id" : 17,
+            "title": "ASUS ROG Strix G16 (2023)",
+            "image": "../images/product_17.jpg",
+            "image_small": "../images/product_17.jpg",
+            "attribute": "Laptop", 
+            "description" : "ASUS ROG Strix G16 (2023) with 90WHr Battery Intel HX-Series Core i9 13th Gen 13980HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4070/240 HZ/140 W) G614JI-N4151WS Gaming Laptop  (16 Inch, Volt Green, 2.50 Kg, With MS Office)",
+            "brand": "Asus", 
+            "avgRating": 4,
+            "ratings": 52,
+            "price": 209990,
+            "oldPrice": 251990
         }
     ], 
     "Deals" : [
@@ -271,7 +344,23 @@
             "ratings": 10,
             "price": 749,
             "oldPrice": 1599
+        },
+
+        {
+            "id" : 14,
+            "title": "Women's Fullsleeve Sweatshirt",
+            "image": "../images/product_14.jpg",
+            "image_small": "../images/product_14.jpg",
+            "attribute": "Polo", 
+            "description" : "Women's trendy fullsleeve sweatshirt lavender colour",
+            "brand": "Minnus", 
+            "avgRating": 5,
+            "ratings": 102,
+            "price": 799,
+            "oldPrice": 1429,
+            "badge": "choice"
         }
+
     ], 
     "Home" : [
         {
@@ -287,7 +376,23 @@
             "price": 14999,
             "oldPrice": 36995,
             "badge": "limited"
+        },
+
+        {
+            "id" : 16,
+            "title": "PHILIPS HL7576/00 Daily Collection 600 W Juicer Mixer Grinder",
+            "image": "../images/product_16.jpg",
+            "image_small": "../images/product_16.jpg",
+            "attribute": "Mixer Grinder", 
+            "description" : "With the Philips Daily Collection HL7576/00 600 W Juicer Mixer Grinder in your kitchen, you can make juices, and grind and mix food ingredients with ease. So, you can make coconut chutney, creamy gravy ingredients, fresh juices, and even milkshakes using this kitchen appliance",
+            "brand": "Philips", 
+            "avgRating": 4,
+            "ratings": 4066,
+            "price": 2929,
+            "oldPrice": 4795,
+            "badge": "seller"
         }
+
     ], 
     "Mobiles" : [
         {
@@ -302,6 +407,21 @@
             "ratings": 1047,
             "price": 129700,
             "oldPrice": 129900,
+            "badge": "seller"
+        },
+
+        {
+            "id" : 15,
+            "title": "SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)  (12 GB RAM)",
+            "image": "../images/product_15.jpg",
+            "image_small": "../images/product_15.jpg",
+            "attribute": "Mobile", 
+            "description" : "Get a smartphone for yourself that can detect your moods and react appropriately. The Samsung Galaxy Ultra's potent processor and advanced camera sensor can handle low light and noise reduction. The phone's Snapdragon 8 Gen 2 processor, which also provides a long battery life to carry you through even the busiest days, also enables quick gaming and video streaming. You can also launch Expert RAW to take high-resolution RAW photos that are vivid and packed with information. Moreover, Dynamic AMOLED 2X offers clear, brilliant details in both bright and low-light conditions. Additionally, to smooth up gaming and save power, the refresh rate is automatically optimised with 120 Hz technology.",
+            "brand": "Samsung", 
+            "avgRating": 5,
+            "ratings": 1856,
+            "price": 124999.00,
+            "oldPrice": 149999.00,
             "badge": "seller"
         }
     ]
