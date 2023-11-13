@@ -1,20 +1,14 @@
-## E Commerce Website
-Long Description about project. This project do that. This project is awesome...
+## E Commerce Website - Wishquire
+Introducing Wishquire – a sleek and user-friendly e-commerce website designed for a seamless shopping experience. Browse through a vast array of products, from electronics to fashion, all within a clean and intuitive interface. Enjoy hassle-free navigation, quick product searches, and a secure checkout process. Wishquire brings the joy of online shopping to your fingertips, delivering a front-end-focused, efficient retail experience.
+
 ## Team members
-1. Anusha Paul [Embed personal github URL]
-2. Jeslia Rose [Embed perosnal github URL]
-3. Meera Iswar
-4. Minnu Anna Siby
+1. Anusha Paul https://github.com/limitlesslogger
+2. Jeslia Rose https://github.com/JesliaRose
+3. Meera Iswar https://github.com/Meera-Iswar
+4. Minnu Anna Siby https://github.com/Annasiby
 ## Team Id
 webwizards
 ## Link to product walkthrough
 [link to video]
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
 ## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+React js
