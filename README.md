@@ -9,6 +9,6 @@ Introducing Wishquire – a sleek and user-friendly e-commerce website designed 
 ## Team Id
 webwizards
 ## Link to product walkthrough
-[link to video]
+https://drive.google.com/file/d/1juwoZNthl42WXrBGgvbfEyOFv-tyoo7d/view?usp=sharing
 ## Libraries used
 React js
